@@ -46,4 +46,18 @@ Agile ceremonies:
 ### Which ceremony do you think is most important for your role, and why?
 I believe that retrospective is the most important for my role as it helps me to reflect on my progress and learn from the feedbacks I got to improve my work in the future.
 ---
+# Task
 
+## Attend a stand-up meeting and observe how updates are shared.
+![alt text](image.png)
+Week 2 Meeting notes (11/08/2025):
+- Giving feedback on Mia's 2 schedule view prototype options. We all selected option 2.
+- Report last week progress.
+- Assign task for this week.
+- Nina's talk about her problems of the low-fidelity design is time consuming and she also needs to finish the onboarding.
+## Participate in a retrospective or review past notes from one.
+- Everyone was doing onboarding tasks.
+- I had problems getting the Bot review. Jeremy helped solve it by checking if I have filled out the onboarding survey.
+- Jin was worried about not making fast progress.
+## Document one change you can make to improve your team collaboration.
+- I hoped we have a shared folder to keep notes of design decisions and changes because it is easy to get lost on Discord chat.

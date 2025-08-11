@@ -25,9 +25,11 @@
 #  Reflection
 
 ## What is your role, and how does it contribute to the Agile process?
-My role is UX designer. My respnsibility is to make sure the product is easy to use, accessible, and visually clear for users. In the Agile process, I work closely with the Product Manager to understand user needs and translate them into wireframes or prototypes. I also review feedback to continuously improve the user experience. 
+My role is UX designer. My responsibility is to make sure the product is easy to use, accessible, and visually clear for users. In the Agile process, I work closely with the Product Manager to understand user needs and translate them into wireframes or prototypes. I also review feedback to continuously improve the user experience. For example, I had to quickly update a design layout after feedback showed it didn’t display well on some laptop sizes, causing part of the content to disappear.
+Here is the Figma that I've worked on:
+![alt text](image-1.png)
 ## How do your responsibilities overlap or interact with other roles in the team?
-My work often overlaps with developers, as I hand off designs and make sure the implementation matches the intended experience. I also interact with the Product Manager, who shares user priorities and feature goals.
+My work often overlaps with developers, as I hand off designs and make sure the implementation matches the intended experience. I also interact with the Product Manager, who shares user priorities and feature goals. When I hand off in Figma, I make sure to add notes, annotations, and spacing guidelines so developers don’t need to guess. 
 
 # Task
 
@@ -35,5 +37,5 @@ My work often overlaps with developers, as I hand off designs and make sure the 
 As a UX designer intern, I help the team make sure the product is user-friendly and enhance user engagement. My job is to understand the user’s needs and turn them into designs that developers can build. I support the team by creating wireframes, Figma prototypes, and refining designs based on feedbacks, while keeping things aligned with the product goals.
 
 ## Identify one other role you frequently collaborate with and describe how you can improve teamwork with them.
-I'll collaborate closely with Developers to make sure the designs are implemented properly. To improve teamwork, I can make my designs more clear by using tools like Figma comments, writing notes, and checking in regularly to answer any questions they have. Keeping communication open helps reduce confusion and speeds up the process.
+I'll collaborate closely with Developers to make sure the designs are implemented properly. To improve teamwork, I can make my designs more clear by using tools like Figma comments, writing notes, and checking in regularly to answer any questions they have. Keeping communication open helps reduce confusion and speeds up the process. 
 

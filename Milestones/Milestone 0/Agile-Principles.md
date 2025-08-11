@@ -63,13 +63,14 @@ its behavior accordingly.
 ## 📝 Reflection
 
 ### What do you think are the biggest benefits and challenges of Agile?
-One of the biggest benefits of Agile is its iterative approach, which breaks down large problems into smaller, manageable tasks. This allows teams to solve issues step by step in a structured way. It also improves project productivity, makes task tracking more efficient, and supports continuous improvement through regular user feedback. 
+One of the biggest benefits of Agile is its iterative approach, which breaks down large problems into smaller, manageable tasks. This allows teams to solve issues step by step in a structured way. It also improves project productivity, makes task tracking more efficient, and supports continuous improvement through regular user feedback. For example, in my last semester project, my team had to create an aged care system. We applied the Agile principles to break down our tasks and allocate them into 2 sprints. The first sprint is for frontend development and the second one focused on backend development. Along the way, we received the client's feedback and made adjustments for our application to reach customer's satisfaction. By using Agile methods, our project progress smoothly and team could identify and address blockers effectivelu to reduce the stagnant and boost productivity.
     
-However, a key challenge with Agile, especially in frameworks like Scrum, is that it’s often sprint-based. This can limit flexibility in projects where rapid changes are needed to meet shifting customer requirements. In fast-paced environments, waiting for the next sprint to adjust priorities may slow things down
+However, a key challenge with Agile, especially in frameworks like Scrum, is that it’s often sprint-based. This can limit flexibility in projects where rapid changes are needed to meet shifting customer requirements. In fast-paced environments, waiting for the next sprint to adjust priorities may slow things down. 
 ---
 
 ### How can Agile principles help improve your role and responsibilities?
-Agile's emphasis on continuous improvement and fast feedback fits well with my role. I can share early designs like wireframes or prototypes with the team and users to gather feedback quickly and make changes quickly. This approach helps me stay user-focused and adapt designs based on real needs. Agile principles also help me work more efficiently by supporting a flexible and iterative design process. Since our team doesn’t work in fixed sprints, I can pick up tasks based on priority and capacity, allowing me to focus on one thing at a time without being overwhelmed by long-term planning.
+Agile's emphasis on continuous improvement and fast feedback fits well with my role. I can share early designs like wireframes or prototypes with the team and users to gather feedback quickly and make changes quickly. This approach helps me stay user-focused and adapt designs based on real needs. Agile principles also help me work more efficiently by supporting a flexible and iterative design process. Since our team doesn’t work in fixed sprints, I can pick up tasks based on priority and capacity, allowing me to focus on one thing at a time without being overwhelmed by long-term planning. 
+I used
 ---
 ## 🛠️ Task
 

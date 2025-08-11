@@ -24,3 +24,12 @@
 ## How can you improve your workflow using Kanban principles?
 
 I can improve my workflow by breaking large tasks into smaller, more manageable steps and moving them across the board as I complete each one. This gives me a clear sense of progress and keeps me motivated. I’ll also try to avoid multitasking, so I stay focused on finishing one thing at a time. Regularly reviewing the board will also help me spot blockers early to seek help from my supervisors and adjust priorities when needed.
+
+# Task
+Check out Focus Bear’s Kanban board and note how tasks are structured. (Hint: Look in GitHub Projects.)
+
+# Move at least one task through the Kanban process and update its status correctly.
+Move the Integrate with Azure Event Hub from super low priority to Very Low Priority
+![alt text](image-2.png)
+# Identify one way you can improve task tracking in your role.
+I could improve task tracking by breaking my design work into smaller, clearer steps on the Kanban board so it’s easier to see what’s done, what’s in progress, and what’s stuck. That way, I and the team can quickly spot issues and keep things moving smoothly.

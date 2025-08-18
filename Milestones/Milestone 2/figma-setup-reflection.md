@@ -31,3 +31,10 @@ Using the link and sending invitation to the development team. I'd put component
 - No version control makes it very hard to know which features are recently added. To avoid confusion, we should inform our team when we add a new design or make changes
 - Hard to find assests and components as there're too many things in a file. We should maintain a clear file structure and naming conventions to make it easier for everyone to locate components or prototypes.
 - Many pages and designs make it difficult for new team member to understand what is going on. To avoid this, designers should use notes and annotation to explain the purpose of each page
+
+ (1) my low-fi prototype of edit habit view
+ ![alt text](image-1.png)
+ (2) a screenshot of I interacting with a Figma file. I conducted an Edit Habit (Desktop view) review on Figma. I sectioned different tabs and left a commment on where I found a pain point for user experience. At the start of each tab, there's a quick overview of my findings.
+ ![alt text](image.png)
+ (3) I commented on my teammate work to select one most suitable opt
+ ![alt text](image-2.png)

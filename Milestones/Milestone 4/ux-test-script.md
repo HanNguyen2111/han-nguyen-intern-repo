@@ -5,7 +5,7 @@ Follow-up questions (e.g., "What was easy? What was confusing?").
 Hi there, thank you for your help today!  
 We’re testing **Focus Bear**, a productivity app designed to reduce distractions and support focus, especially for neurodivergent users.  
 
-This session is about testing the **app**. There are no right or wrong answers — we just want to see how people interact with it. If you get stuck, that’s completely fine and very valuable for us to learn from. Please think aloud as you go through the tasks so we can understand your thought process.  
+This session is about testing the **app**. There are no right or wrong answers, we just want to see how people interact with it. If you get stuck, that’s completely fine and very valuable for us to learn from. Please think aloud as you go through the tasks so we can understand your thought process.  
 ## Scenario & Tasks
 
 1. **Navigate to edit habits**  

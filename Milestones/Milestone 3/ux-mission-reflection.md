@@ -16,7 +16,9 @@ Good UX helps users focus on tasks without unnecessary distractions. By keeping 
 - Predictable UI patterns let users form habits and mental models, reducing cognitive load and helping them complete tasks efficiently.
 # 📝 Reflection
 ## If a new feature looks visually appealing but is hard to use, how should UX designers handle that tradeoff?
-When a feature looks nice but is confusing or difficult to use, I always put usability first. For me, it’s important to find ways to keep the feature visually appealing while making it clear and easy to use. This might mean simplifying the layout, adding helpful feedback, or keeping design elements consistent so users can quickly understand how to interact with it.
+When a feature looks nice but is confusing or difficult to use, I always put usability first. For me, it’s important to find ways to keep the feature visually appealing while making it clear and easy to use. This might mean simplifying the layout, adding helpful feedback, or keeping design elements consistent so users can quickly understand how to interact with it. 
+I’ve experienced this first-hand using Notion. Its templates look amazing at first glance, but sometimes the amount of options and hidden menus make it confusing to actually get work done. I had to spend extra time watching tutorials before I could use it properly. That’s a clear example of design leaning too much on aesthetics without considering usability. This picture shows that the side bar of Notion contains a lot of options and templates, which took me sometimes to wrap my head around.
+![alt text](image-2.png)
 ## What specific challenges might neurodivergent users face when using productivity apps?
 - From my experience, neurodivergent users often struggle with:
 - Cluttered or inconsistent layouts, which make it hard to focus.
@@ -26,3 +28,5 @@ When a feature looks nice but is confusing or difficult to use, I always put usa
 When design for Focus Bear, I'll try to reduce these pain points by keeping the interface simple, predictable, and focused on one task at a time.
 ## How can Focus Bear's UX differentiate itself from other productivity tools?
 I believe Focus Bear can stand out by combining simplicity, cognitive load reduction, and accessibility. Features like adjustable fonts, dark mode, and two display modes (Simple and Geek) allow users to tailor the experience to their needs. Consistent navigation, minimal distractions, and breaking tasks into manageable chunks make it easier for users to focus and stay productive, which is something many other apps overlook. For me, the goal is to make productivity feel natural and stress-free, especially for neurodivergent users.
+
+Compared to tools I’ve used like Notion, which often overload you with choices, Focus Bear can feel lighter and more user-friendly. For me, the goal is to make productivity feel natural and supportive, especially for neurodivergent users who often need structure without sensory overload.

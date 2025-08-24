@@ -18,9 +18,9 @@ I can test my designs with neurodivergent users early and ask for feedback on cl
 
 ## 🛠️ Task
 
-**First-person account (summary):**  
-I read a blog post by someone with ADHD describing how productivity apps often make them feel “guilty” when they don’t meet goals. They mentioned that rigid streaks and harsh reminders trigger shame instead of motivation. What helped them most were tools that offered encouragement, flexibility, and allowed for “restart points” instead of punishing resets.
-
+**Read a first-person account from someone with ADHD or Autism about their experiences with productivity tools. (Hint: Look for blog posts, videos, or community discussions.)**
+![alt text](image.png)
+This user who diagnosed with ADHD talked about how using productivity tools such as Notion turns out to be more distractive as they spend time on customising the template instead of doing the work. I've learned from this that a useful productivity tool for neurodivergent folks should be less cluttered and have straightforward functions to reduce cognitive load.
 **Design/communication improvement idea for Focus Bear:**  
 Add a “gentle encouragement” option for reminders (e.g., “Want to try again?” instead of “You missed your task”). This would support users who struggle with executive functioning and reduce feelings of failure.
 

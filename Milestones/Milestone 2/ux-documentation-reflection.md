@@ -26,7 +26,14 @@ Include accessibility notes in every document like WCAG checks. Record design ch
 I’d use a Google Doc starting with a quick overview: date, participant profile, and testing goals. 
 Then I’d list the main findings in bullet points with screenshots or participant quotes for context. Feedback would be grouped into themes like usability issues, positives, and improvement ideas. 
 I’d finish with clear action steps so the team knows exactly what to do next.
+
+Here is my user research report to summarise my findings and method of conducting the usability testing. In this document, I provided a quick overview of my finding and what this research is about. Next I introduce the test goal, number of perticipants, test date and the method that I used. After that, I grouped key findings together and then recommendations on how to solve the pain points that I found.
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
+
 ## How can a well-structured UX document help prevent miscommunication between teams?
 A well-structured UX document keeps everyone on the same page by showing both the design process and the reasoning behind decisions. It helps cross-functional teams stay aligned, reduces misunderstandings, and makes collaboration smoother. 
 ## What challenges might arise when writing UX documentation, and how can you avoid them?
 One challenge is making it too long with too many text, so key points get lost. Another is using design terms that non-designers won’t get. I’d keep it clear with headings, bullet points, and visuals, and write in plain language. I’d also keep it updated so it stays useful.
+

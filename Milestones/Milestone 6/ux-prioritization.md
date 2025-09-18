@@ -1,0 +1,8 @@
+## If a PM tells you there’s no time for a UX improvement, how would you respond?
+ I’d first ask why the timeline doesn’t allow for the change, maybe they need to ship a feature fast. Instead of just arguing, I’d show how the UX fix could make the app more usable for neurodivergent users. For example, if a cluttered screen is causing overwhelm, I’d point out that fixing it now could reduce frustration and stop people from dropping off. If it’s still not possible right away, I’d ask to keep it in the backlog so we don’t lose track.
+
+## How can UX designers ensure that important usability issues don’t get ignored?
+For Focus Bear, I’d back it up with actual user feedback. If testers say “the break reminders are too distracting” or “the settings are hard to find,” I’d capture that and share it with the PM. Real quotes and screenshots make it harder to dismiss. I’d also connect it to our mission which is helping users with ADHD or Autism stay focused because ignoring those issues could hurt the people we’re trying to support most.
+
+## What’s the best way to present UX work as a business priority rather than a “nice-to-have”?
+Always connect UX fixes to business outcomes whether that’s boosting conversions, keeping users engaged, or making the product easier to scale. Instead of saying, “this makes the app look better,” I’d say, “this reduces friction, which keeps users from leaving.” Showing UX as part of growth and retention makes it a priority, not an extra.

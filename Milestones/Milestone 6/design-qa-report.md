@@ -1,0 +1,8 @@
+# 📝 Reflection
+## If a developer says a UI issue isn’t a priority, how would you advocate for fixing it?
+If a developer says a UI issue isn’t a priority, I’d first try to understand their reasoning, maybe there’s a technical or time constraint. Then, I’d explain how the issue impacts the user experience or accessibility, and use examples or evidence from usability principles to show why it matters. Advocating through user value, not just aesthetics, helps the team see its importance.
+For example, in the Log data tab, I provided users with tracking examples to give them ideas on how they can use the feature, but it might look redundant to the developers. Given our target audiences are ADHD users, they might find it useful with specific examples of how they can keep track of their progress with the logging feature. 
+## What are the risks of skipping design QA before launch?
+Skipping design QA can lead to serious problems such as inconsistent visuals, broken interactions, or accessibility barriers. These small issues can build up and affect the overall usability and credibility of the product once it’s released.
+## How can UX designers give clear and actionable feedback to developers during QA?
+During QA, UX designers should give clear, actionable feedback, using screenshots, short notes, or side-by-side comparisons in tools like Figma or browser dev tools. Instead of just saying “this looks off,” it’s better to say “the padding here should be 16px to match the design system.” This makes collaboration smoother and ensures fixes are efficient.

@@ -10,3 +10,4 @@ Not providing enough detail in a handoff can cause extra rework and delays, sinc
 The handoff comes after the design kickoff because the kickoff aligns both teams on goals, priorities, and technical limits before design begins. Once everything’s clear and approved, the handoff ensures that what’s been designed can be accurately built.
 
 # Developer feedback:
+The Figma is easy to understand, could include more comments about design decisions made and some issues when working with Figma

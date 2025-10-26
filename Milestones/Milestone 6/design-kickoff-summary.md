@@ -1,5 +1,7 @@
-# 💡 Key Discussion Points
+Date: 22/10/2025 4:50 - 5:15PM
+Attendees: Han Nguyen - UX Designer, Amanuel - Front-end Dev
 
+# 💡 Key Discussion Points
 - Reviewed the updated Edit Habit redesign prototype in Figma.
 - Discussed the main UX improvements: simplified flow, improved information hierarchy, and reduced cognitive load for neurodivergent users.
 - Walked through interactive elements, responsive layouts, and accessibility updates.
